@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ServerHw</string>
+    <string name="run_button">Запуск</string>
+    <string name="download_button">Загрузить</string>
 </resources>
